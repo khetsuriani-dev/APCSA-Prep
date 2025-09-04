@@ -11,4 +11,8 @@ There are 3 main folders for now.
 └───studying -- Just testing out new stuff I learn
 ```
 
+I started learning java on September 1.
+
+[My Codeforces](https://codeforces.com/profile/khetsuriani)
+
 
